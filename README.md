@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello and welcome to my GitHub page!
+
+## My Credly Badges
+
+<a href="https://www.credly.com/badges/1e2aeac9-98e4-4364-9e4d-49cbe7254ae1/public_url">
+  <img src="assets/lfs158-introduction-to-kubernetes.png" width="200" alt="Introduction to Kubernetes Badge">
+</a>
 
 <!--
 **Gandook/Gandook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
